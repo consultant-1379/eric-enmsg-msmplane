@@ -1,0 +1,9 @@
+NAME=eric-enmsg-msmplane
+DEP=true
+REQUESTS=true
+REQUESTS_LIST=4392Mi
+LIMITS=true
+LIMITS_LIST=7392Mi
+WAIT=true
+WAIT_LIST=gossiprouter-cache,gossiprouter-eap7,jms01,postgres,sps
+SVC=msmplane
